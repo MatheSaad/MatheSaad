@@ -1,7 +1,7 @@
 Olá! Eu sou o Matheus Saad
 
 - 🔭 Bucando uma oportunidade em Back-end
-- 🌱 Estudando Python e SQL 
+- 🌱 Estudando PHP e SQL (Eventualmente Laravel) 
 - 📫 Contate-me no e-mail: matheussaad.dev@gmail.com
 - 😄 Pronomes: ele/dele 
 -
